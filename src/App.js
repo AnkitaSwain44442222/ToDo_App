@@ -1,13 +1,12 @@
 import React from 'react'
 
-//import Todo from './component/todoreact/todo'
-import Temp from "./component/weather/temp"
+import Todo from './component/todoreact/todo'
 
 const App = () => {
   // return <UseEffect/>;
   return (
   <>
-    <Temp/>
+    <Todo/>
   </>
   )}
 
